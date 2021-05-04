@@ -14,5 +14,6 @@ public class Test {
     private String test;
     private String name5;
     private String name7;
-
+    private String name8;
+    private String name9;
 }
