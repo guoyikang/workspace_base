@@ -9,5 +9,6 @@ public class Test {
     private String name;
 
     private String info;
+    private String test;
 
 }
