@@ -8,8 +8,10 @@ public class Test {
     private int age;
     private String name;
     private String name2;
+    private String name4;
     private String name1;
     private String info;
     private String test;
+
 
 }
